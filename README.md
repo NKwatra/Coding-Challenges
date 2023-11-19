@@ -13,3 +13,6 @@ I have decided to learn a new programming language [Go](https://go.dev/). I will
 1. Custom implementation of wc command.
    - [Problem](https://codingchallenges.substack.com/p/coding-challenge-1)
    - [Solution](./wc/)
+2. Custom implementation of huffman encoding/decoding
+   - [Problem](https://codingchallenges.substack.com/p/coding-challenge-3)
+   - [Solution](./compressor/)
