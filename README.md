@@ -16,3 +16,6 @@ I have decided to learn a new programming language [Go](https://go.dev/). I will
 2. Custom implementation of huffman encoding/decoding
    - [Problem](https://codingchallenges.substack.com/p/coding-challenge-3)
    - [Solution](./compressor/)
+3. Custom implementation of cut command
+   - [Problem](https://codingchallenges.substack.com/p/coding-challenge-4)
+   - [Solution](./ncut/)
