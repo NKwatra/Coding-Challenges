@@ -1,0 +1,3 @@
+module nkwatra/lb
+
+go 1.21.4

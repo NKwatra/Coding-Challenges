@@ -19,3 +19,6 @@ I have decided to learn a new programming language [Go](https://go.dev/). I will
 3. Custom implementation of cut command
    - [Problem](https://codingchallenges.substack.com/p/coding-challenge-4)
    - [Solution](./ncut/)
+4. Custom implementation of application load balancer
+   - [Problem](https://codingchallenges.substack.com/p/coding-challenge-5)
+   - [Solution](./lb/)
